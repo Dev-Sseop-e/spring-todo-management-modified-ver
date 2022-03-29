@@ -4,7 +4,7 @@
 	src="webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js"></script>
 <script>
 	$('#targetDate').datepicker({
-		format : 'yyyy-mm-dd'
+		format : 'dd/mm/yyyy'
 	});
 </script>
 
