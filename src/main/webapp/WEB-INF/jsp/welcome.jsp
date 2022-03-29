@@ -1,5 +1,5 @@
-<%@ include file="common/header.jspf"%>
-<%@ include file="common/navigation.jspf"%>
+<%@ include file="common/header.jspf" %>
+<%@ include file="common/navigation.jspf" %>
 <div class="container">
 
 	<div class="panel panel-primary">
@@ -10,4 +10,4 @@
 		</div>
 	</div>
 </div>
-<%@ include file="common/footer.jspf"%>
+<%@ include file="common/footer.jspf" %>

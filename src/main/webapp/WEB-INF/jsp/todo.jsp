@@ -1,5 +1,5 @@
-<%@ include file="common/header.jspf"%>
-<%@ include file="common/navigation.jspf"%>
+<%@ include file="common/header.jspf" %>
+<%@ include file="common/navigation.jspf" %>
 <div class="container">
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3 ">
@@ -29,4 +29,4 @@
 		</div>
 	</div>
 </div>
-<%@ include file="common/footer.jspf"%>
+<%@ include file="common/footer.jspf" %>
