@@ -66,4 +66,5 @@ public class Todo {
 	public void setTargetDate(Date targetDate) {
 		this.targetDate = targetDate;
 	}
+
 }

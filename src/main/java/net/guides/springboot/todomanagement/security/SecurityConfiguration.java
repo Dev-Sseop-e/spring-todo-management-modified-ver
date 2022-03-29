@@ -9,6 +9,7 @@ import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 
 @Configuration
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
+
 	@Autowired
     public void configureGlobalSecurity(AuthenticationManagerBuilder auth)
             throws Exception {
@@ -27,4 +28,5 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
         http.csrf().disable();
         http.headers().frameOptions().disable();
     }
+
 }
